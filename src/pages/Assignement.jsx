@@ -1,10 +1,10 @@
 export default function Assignement() {
   const assignments = [
-    { title: "Data Science Assignment", link: "#" },
-    { title: "Internal 1", link: "#" },
-    { title: "Internal 2", link: "#" },
-    { title: "3rd Assignment", link: "#" },
-    { title: "End Sem Paper Solution", link: "#" },
+    // { title: "Data Science Assignment", link: "#" },
+    { title: "Internal 1", link: "https://www.youtube.com/playlist?list=PL9yqxE4_gZDZczYKATO3GlFZ7n1xUSJsX&si=pDdq0Y2joNjpP1V2" },
+    { title: "Internal 2", link: "https://www.youtube.com/playlist?list=PL9yqxE4_gZDbNZUfeVcy6nz_wt_tJPsJn" },
+    { title: "3rd Assignment", link: "https://www.youtube.com/playlist?list=PL9yqxE4_gZDYhNTR-Gql-c5le7BiekjiS" },
+    { title: "End Sem Paper Solution", link: "https://www.youtube.com/playlist?list=PL9yqxE4_gZDbXma4rza9beDHSEXtTFBPE" },
   ];
 
   return (
